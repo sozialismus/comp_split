@@ -1,0 +1,79 @@
+{
+  "Jewish-christian varia": {
+    "files": 41,
+    "original_sentences": 20274,
+    "sampled_sentences": 15000,
+    "out_conllu": "combined_docgroups_sampled/Jewish-christian varia.conllu",
+    "out_csv": "combined_docgroups_sampled/Jewish-christian varia.csv"
+  },
+  "LXX": {
+    "files": 57,
+    "original_sentences": 64085,
+    "sampled_sentences": 15000,
+    "out_conllu": "combined_docgroups_sampled/LXX.conllu",
+    "out_csv": "combined_docgroups_sampled/LXX.csv"
+  },
+  "Aristotle": {
+    "files": 45,
+    "original_sentences": 98782,
+    "sampled_sentences": 15000,
+    "out_conllu": "combined_docgroups_sampled/Aristotle.conllu",
+    "out_csv": "combined_docgroups_sampled/Aristotle.csv"
+  },
+  "Rhetoric": {
+    "files": 157,
+    "original_sentences": 60746,
+    "sampled_sentences": 15000,
+    "out_conllu": "combined_docgroups_sampled/Rhetoric.conllu",
+    "out_csv": "combined_docgroups_sampled/Rhetoric.csv"
+  },
+  "Greek novels": {
+    "files": 14,
+    "original_sentences": 26270,
+    "sampled_sentences": 15000,
+    "out_conllu": "combined_docgroups_sampled/Greek novels.conllu",
+    "out_csv": "combined_docgroups_sampled/Greek novels.csv"
+  },
+  "Greek biographies (includes Plutarch)": {
+    "files": 76,
+    "original_sentences": 53277,
+    "sampled_sentences": 15000,
+    "out_conllu": "combined_docgroups_sampled/Greek biographies (includes Plutarch).conllu",
+    "out_csv": "combined_docgroups_sampled/Greek biographies (includes Plutarch).csv"
+  },
+  "Epoi": {
+    "files": 7,
+    "original_sentences": 28697,
+    "sampled_sentences": 15000,
+    "out_conllu": "combined_docgroups_sampled/Epoi.conllu",
+    "out_csv": "combined_docgroups_sampled/Epoi.csv"
+  },
+  "Plato": {
+    "files": 34,
+    "original_sentences": 76000,
+    "sampled_sentences": 15000,
+    "out_conllu": "combined_docgroups_sampled/Plato.conllu",
+    "out_csv": "combined_docgroups_sampled/Plato.csv"
+  },
+  "Greek tragedies": {
+    "files": 34,
+    "original_sentences": 36738,
+    "sampled_sentences": 15000,
+    "out_conllu": "combined_docgroups_sampled/Greek tragedies.conllu",
+    "out_csv": "combined_docgroups_sampled/Greek tragedies.csv"
+  },
+  "Greek historiographies": {
+    "files": 30,
+    "original_sentences": 156222,
+    "sampled_sentences": 15000,
+    "out_conllu": "combined_docgroups_sampled/Greek historiographies.conllu",
+    "out_csv": "combined_docgroups_sampled/Greek historiographies.csv"
+  },
+  "NT": {
+    "files": 27,
+    "original_sentences": 14225,
+    "sampled_sentences": 14225,
+    "out_conllu": "combined_docgroups_sampled/NT.conllu",
+    "out_csv": "combined_docgroups_sampled/NT.csv"
+  }
+}
